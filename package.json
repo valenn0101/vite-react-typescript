@@ -5,9 +5,9 @@
   "description": "Vite + React + TypeScript template",
   "license": "MIT",
   "author": {
-    "name": "Patrick Jean Meurer",
-    "email": "patrickjmeurer@gmail.com",
-    "url": "https://github.com/potreco"
+    "name": "valenn0101",
+    "email": "veroncaceresvalentin@gmail.com",
+    "url": "https://github.com/valenn0101"
   },
   "scripts": {
     "dev": "vite",
@@ -26,9 +26,13 @@
     }
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "bootstrap": "^5.3.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.15.0"
+    "react-router-dom": "^6.15.0",
+    "redux": "^4.2.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
