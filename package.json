@@ -18,7 +18,8 @@
     "format": "prettier \"src/**/*.{js,jsx,ts,tsx,css,scss}\" --write",
     "compile": "tsc",
     "test": "jest",
-    "commit": "cz"
+    "commit": "cz",
+    "tsc:check": "tsc --noEmit"
   },
   "config": {
     "commitizen": {
